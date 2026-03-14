@@ -17,7 +17,6 @@ themeToggle.addEventListener('click', () => {
 });
 
 generateBtn.addEventListener('click', () => {
-...
     generateNumbers();
 });
 
